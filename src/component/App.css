@@ -1,0 +1,21 @@
+.filter-container{
+    justify-content: space-between;
+}
+
+.input-container{
+    flex-basis: 45%;
+}
+
+.data-container{
+    min-height: 200px;
+    padding:0 10px;
+}
+
+.lineerror{
+    border: 2px solid rgb(255, 0, 0);
+}
+
+.data-container{
+    max-height: 350px;
+    overflow: auto;
+}
